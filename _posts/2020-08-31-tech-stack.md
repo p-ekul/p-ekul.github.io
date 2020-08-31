@@ -33,7 +33,7 @@ pin: true
 ---
 - 대표적인 Git 저장소들의 차이점
 
-| &nbsp;&nbsp;&nbsp;&nbsp;내용&nbsp;&nbsp;&nbsp;&nbsp; | GitLab | GitHub | Bitbucket |
+| &nbsp;&nbsp;내용&nbsp;&nbsp; | GitLab | GitHub | Bitbucket |
 | :---: | :---: | :---: | :---: |
 | 레포지토리 | Git Only | Git, SVN, TFS | Git, CodePlex, SVN, Sourceforge, Mercurial |
 | 프로젝트 | Private 프로젝트 무제한 무료 지원 | 오픈소스 프로젝트에 더 적합 (Private은 유료) | Private 프로젝트 무제한 무료 지원 (단 협업자 5명까지)
