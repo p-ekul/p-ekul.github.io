@@ -65,8 +65,7 @@ pin: true
 - 개발된 코드를 분석하여 품질 목표를 달성하게 해주는 도구. 이를 정적 분석이라 한다.
 - 프로그램을 실행하지 않고도 코드의 형태만으로 위험성, 코딩 표준이나 규칙을 위배하는지 검사해준다.
 
-예시)
-![Sonarqube](../assets/img/education/sonarqube.png)
+![sonarqube](../assets/img/education/sonarqube.png)
 
 #### 특징
 1. 
