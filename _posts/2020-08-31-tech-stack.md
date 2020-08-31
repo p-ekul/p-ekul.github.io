@@ -36,6 +36,6 @@ pin: true
 | &nbsp;내용&nbsp; | GitLab | GitHub | Bitbucket |
 | :---: | :---: | :---: | :---: |
 | 레포지토리 | Git Only | Git, SVN, TFS | Git, CodePlex, SVN, <br>Sourceforge, Mercurial |
-| 프로젝트 | Private 프로젝트 무제한 무료 지원 | 오픈소스 프로젝트에 더 적합 (Private은 유료) | Private 프로젝트 <br>무제한 무료 지원 <br>(단 협업자 5명까지)
+| 프로젝트 | Private 프로젝트 <br>무제한 무료 지원 | 오픈소스 프로젝트에 <br>더 적합 (Private은 유료) | Private 프로젝트 <br>무제한 무료 지원 <br>(단 협업자 5명까지)
 | 속도 | 보통 | 빠름 | 느림
-| 특징 | - Jenkins와 연동하여 빌드 배포까지 가능<br> - 온라인 개발기능을 지원 | 가장 많은 레포지토리, 가장 많은 사용자 수 보유 | 자사 다른 서비스인 <br>Jira, Hipchat <br>등 과 연동이 편하다|
+| 특징 | - Jenkins와 연동하여 <br>빌드 배포까지 가능<br> - 온라인 개발기능을 지원 | 가장 많은 레포지토리, <br>가장 많은 사용자 수 보유 | 자사 다른 서비스인 <br>Jira, Hipchat <br>등 과 연동이 편하다|
