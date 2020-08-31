@@ -68,6 +68,5 @@ pin: true
 예시)
 ![Sonarqube](../assets/img/education/sonarqube.png)
 
-
 #### 특징
 1. 
