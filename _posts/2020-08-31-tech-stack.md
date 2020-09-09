@@ -81,7 +81,7 @@ pin: true
 ---
 - 서비스가 많아지고 이를 관리해야하는 서버의 대수가 늘어나면서 비용과 유지보수가 어려운 물리적 서버보다는 가상 서버에 의존하기 시작했다. 많은 대수의 서버마다 매번 소프트웨어를 설치하고 환경을 관리해야하는것이 버거워지기 시작하면서 한가지의 서버 설정 환경 표준을 잡아서 일거리를 줄이는 방법을 강구하기 시작했다. 이런 "불변 인프라 환경"을 가능하게 해주는 대표적인 프로젝트가 바로 Docker.
 
-![Docker](../assets/img/education/Docker.png)
+![Docker](https://t1.daumcdn.net/cfile/tistory/99DEAB4D5B652E051B)
 - 그림에서의 도커 컨테이너라고 하면 여러 OS에 여러 application이 올려진 환경을 말하고 도커는 이를 관리하는 툴로 해석된다.
 <br>
 
@@ -100,5 +100,5 @@ pin: true
 <br>
 
 ### 특징
-![Docker Survey](../assets/img/education/docker-survey.png)
+![Docker Survey](https://subicura.com/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-survey.png)
 - 도커는 업계 표준이 되어가고 있는데 도커가 진행한 설문조사에 의하면 90%의 개발 환경은 도커로 이루어 지고 있고 80%의 DevOps 환경을 도커를 이용하여 구축할 계획이라고 조사됐다.
