@@ -1,8 +1,11 @@
 {
-  "name": "tailwind-nextjs-starter-blog",
-  "version": "2.2.0",
+  "name": "pekul",
+  "version": "0.1.0",
   "private": true,
+  "homepage": "https://p-ekul.github.io/pekul",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "next dev",
     "dev": "cross-env INIT_CWD=$PWD next dev",
     "build": "cross-env INIT_CWD=$PWD next build && cross-env NODE_OPTIONS='--experimental-json-modules' node ./scripts/postbuild.mjs",
